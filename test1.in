@@ -1,0 +1,25 @@
+post
+newblog Nick "a new era" "this is a new blog" "tag1,tag2"
+post
+newblog Kayla "title" "im also posting in this blog" "fire,post"
+post
+newblog2 "Shaket" "Quick Maths" "2+2 is 4 minus 1 is 3 quick maths!" "legend"
+comment
+newblog2 1 "Shaket" "Man's not hot"
+comment
+newblog2 2 "Shaket" "Man's not dumb"
+show
+newblog
+comment
+idk
+post
+idk
+delete
+newblog 1 Shaket
+delete
+newblog 1 "Nick"
+show
+newblog
+show
+newblog2
+quit
